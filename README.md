@@ -3,6 +3,8 @@
 <!--
 **dfrishbuter/dfrishbuter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!-- [Visitor Count](https://profile-counter.glitch.me/jVirus/count.svg) -->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dmitry's github stats](https://github-readme-stats.vercel.app/api?username=dfrishbuter&bg_color=30,e96443,904e95&title_color=d6d6ff&text_color=fff&show_icons=true&icon_color=d6d6ff&hide_border=true)
+![Dmitry's github stats](https://github-readme-stats.vercel.app/api?username=dfrishbuter&hide=stars&bg_color=30,e96443,904e95&title_color=d6d6ff&text_color=fff&show_icons=true&icon_color=d6d6ff&hide_border=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dfrishbuter&count_private=true&layout=compact&bg_color=30,e96443,904e95&title_color=d6d6ff&text_color=d6d6ff&hide_border=true)
